@@ -1,5 +1,5 @@
 {
-	"key": "<YOUR APPLICATION EXTENSION KEY HERE>",
+	"key": "<fb940a4d-d34b-4113-ba15-0382e31e1819>",
 	"metaData": {
 		"icon": "images/icon.png",
 		"iconSmall": "images/icon_small.png"
@@ -13,7 +13,7 @@
 	},
 	"workflowApiVersion": "1.1",
 	"configurationArguments": {
-		"applicationExtensionKey": "<YOUR APPLICATION EXTENSION KEY HERE>",
+		"applicationExtensionKey": "<Yfb940a4d-d34b-4113-ba15-0382e31e1819>",
 		"save": {
 			"url": "https://<URL OF THE SERVER RUNNING THE BACKEND>/activity/save",
 			"verb": "POST",
